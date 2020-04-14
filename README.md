@@ -10,5 +10,5 @@ Deploying your Flutter WebApp to Github Pages
 https://medium.com/@maheshmnj/deploying-your-flutter-webapp-to-github-pages-111ff9e5cbc9 
 
 dart2js: Dart-to-JavaScript compiler  
-https://medium.com/@maheshmnj/deploying-your-flutter-webapp-to-github-pages-111ff9e5cbc9
+https://dart.dev/tools/dart2js
 
